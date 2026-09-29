@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Nesrine 👋
+Cloud Computing engineering student at ESPRIT (Tunis), focused on **Cloud/DevOps** and **fullstack** development.
+I'm looking for a final-year internship (PFE) starting in 2027.
 
-<!--
-**nesrinezaiemm/nesrinezaiemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I work with
+**Cloud & DevOps:** OpenStack · Azure · Kubernetes · Docker · Terraform · Ansible · Jenkins
+**Development:** Angular · Spring Boot · Django · Laravel · Python
+**Data:** Scikit-learn · PostgreSQL · MySQL
 
-Here are some ideas to get you started:
+## Featured projects
+- **Cloud PI:** private IaaS cloud on OpenStack with a Spring Boot/Angular app on Kubernetes
+- **DevOps CI/CD:** Jenkins, Maven, SonarQube, Docker, Kubernetes, Grafana
+- **EngageLab:** marketing optimization with XGBoost, K-Means, DBSCAN and Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+📧 nesrine.zaiem@esprit.tn · [LinkedIn](https://www.linkedin.com/in/nesrine-zaiem)
